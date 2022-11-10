@@ -1,0 +1,33 @@
+baseURL = "http://nuc3/scooters/public/"
+title = "Unterwegs mit Motorrollern"
+theme = "contrast-hugo"
+dateFormat = "2.1.2006"
+[params]
+  minimal = false
+  excerpts = false
+  description = "Bernis Blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "vorgeschichte"
+    name = "1.Vorgeschichte"
+    url = "/page/vorgeschichte/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "servizio"
+    name = "2.Servizio"
+    url = "/page/servizio/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "3.Schlagwörter"
+    url = "/tags/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "datenschutz"
+    name = "4.Impressum"
+    url = "/page/datenschutz/"
+    weight = 10

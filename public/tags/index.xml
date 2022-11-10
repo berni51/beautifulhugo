@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Unterwegs mit Motorrollern</title>
+    <link>http://tc58/scooters/public/tags/</link>
+    <description>Recent content in Tags on Unterwegs mit Motorrollern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Oct 2022 14:09:13 +0200</lastBuildDate><atom:link href="http://tc58/scooters/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vespa-gts</title>
+      <link>http://tc58/scooters/public/tags/vespa-gts/</link>
+      <pubDate>Tue, 11 Oct 2022 14:09:13 +0200</pubDate>
+      
+      <guid>http://tc58/scooters/public/tags/vespa-gts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-Roller</title>
+      <link>http://tc58/scooters/public/tags/e-roller/</link>
+      <pubDate>Wed, 05 Oct 2022 18:43:53 +0200</pubDate>
+      
+      <guid>http://tc58/scooters/public/tags/e-roller/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Unterwegs mit Motorrollern</title>
+    <link>http://tc58/scooters/public/page/</link>
+    <description>Recent content in Pages on Unterwegs mit Motorrollern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://tc58/scooters/public/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Servizio eletrico</title>
+      <link>http://tc58/scooters/public/page/servizio-eletrico/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://tc58/scooters/public/page/servizio-eletrico/</guid>
+      <description>Servicearbeiten an meinem Nova-Motors eRetro Star:
+Alle Wartungs, Service- und Reparaturarbeiten an meinem E-Roller sind hier protokolliert. Mal schauen, wie er sich im Vergleich zur Verbrenner-Vespa schlägt.
+Mai 2022 km-Stand: 250 - Topcase montiert
+April 2022: Km-Stand: 99 - Schraubverbindungen überprüft, Bremse eingestellt, Luft aufgefüllt, bessere Spiegel verbaut, LED-Leuchtmittel eingebaut, Bremszug- und Tachowelle geschmiert.</description>
+    </item>
+    
+    <item>
+      <title>Kleine Vorgeschichte</title>
+      <link>http://tc58/scooters/public/page/vorgeschichte/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://tc58/scooters/public/page/vorgeschichte/</guid>
+      <description>OK, ganz so klein ist meine Roller-Vorgeschichte dann doch nicht geworden. Zwar war mein erstes motorisiertes Zweirad eine Zündapp Super Combinette, also ein Moped. Aber als ich dann einen Capri 50 für 50 DM bekommen konnte, habe ich umgesattelt. Schliesslich bin ich mit dem Zweirad das ganze Jahr, also auch im Winter, zur Schule nach Buer gefahren.</description>
+    </item>
+    
+    <item>
+      <title>Servizio</title>
+      <link>http://tc58/scooters/public/page/servizio/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://tc58/scooters/public/page/servizio/</guid>
+      <description>Servicearbeiten an meiner Vespa GTS 125:
+Alle Wartungs, Service- und Reparaturarbeiten an meiner Vespa sind hier protokolliert. Da kam in all den Jahren nicht viel zusammen. Sind schon robuste Fahrzeuge.
+Im Vergleich dazu sind unter diesem Link die Arbeiten am Elektroroller aufgeführt. Mal sehen, wie sich der kleine eRetro Star von Nova Motors schlägt.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz und Impressum</title>
+      <link>http://tc58/scooters/public/page/datenschutz/</link>
+      <pubDate>Fri, 28 Apr 2017 18:46:58 +0200</pubDate>
+      
+      <guid>http://tc58/scooters/public/page/datenschutz/</guid>
+      <description>Die folgenden Angaben entsprechen den Vorgaben von § 5 TMG:
+Betreiber &amp;amp; Webmaster: Bernhard Ernst
+Kontaktdaten: E-Mail-Adresse: b.e (at) berni.fmode.de
+Dies ist eine private Website ohne kommerziellen Hintergrund. Deswegen gibt es hier keine Ust.-ID und auch keinen Amtsgerichtseintrag. Aber gibt es selbstverständlich einen Haftungsauschluss für verlinkte Seiten sowie eine Datenschutzerklärung.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://tc58/scooters/public/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tc58/scooters/public/page/about/</guid>
+      <description>There is nothing about me.</description>
+    </item>
+    
+  </channel>
+</rss>

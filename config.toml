@@ -1,0 +1,143 @@
+########## baseURL für local server tc58
+ baseURL = "http://tc58/scooters/public/"
+##########################################################
+########## baseURL für Internet bei manitu
+# baseURL = "https://bullet500.de/scooters/public/"
+# baseURL = "https://blog.bullet500.de/" 
+##########################################################
+# baseURL für Webserver nuc2
+# baseURL = "http://nuc2/scooters/"                  
+#########################################################
+# baseURL für Webserver brixi
+# baseURL = "http://brixi/scooters/"
+#########################################################
+
+#uglyURLs = true
+#relativeURLs = true
+#canonifyURLs = false
+enableEmoji = true
+
+summaryLength = "50"
+DefaultContentLanguage = "de"
+#DefaultContentLanguage = "ja"
+title = "Unterwegs mit Motorrollern"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Bernis Roller-Blog"
+  mainSections = ["post","posts"]
+  logo = "img/minivespa.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+#  dateFormat = "January 2, 2006"
+  dateFormat = "2.1.2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "B.S. Ernst"
+ # website = "about"
+ # email = "youremail@domain.com"
+ # facebook = "username"
+ # github = "username"
+ # gitlab = "username"
+ # bitbucket = "username"
+ # twitter = "username"
+ # reddit = "username"
+ # linkedin = "username"
+ # xing = "username"
+ # stackoverflow = "users/XXXXXXX/username"
+ # snapchat = "username"
+ # instagram = "username"
+ # youtube = "user/username" # or channel/channelname
+ # soundcloud = "username"
+ # spotify = "username"
+ # bandcamp = "username"
+ # itchio = "username"
+ # vk = "username"
+ # paypal = "username"
+ # telegram = "username"
+ # 500px = "username"
+ # codepen = "username"
+ # mastodon = "url"
+ # kaggle = "username"
+ # weibo = "username"
+ # slack = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Vorgeschichte"
+    url = "page/vorgeschichte/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Servizio"
+    url = "page/servizio/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Impressum"
+    url = "page/datenschutz/"
+    weight = 5
+
+#[[menu.main]]
+#    identifier = "samples"
+#    name = "Samples"
+#    weight = 2
+#
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Big Image Sample"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
+#
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Math Sample"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+#
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Code Sample"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 4
